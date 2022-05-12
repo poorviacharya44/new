@@ -1,0 +1,26 @@
+.transbox
+{
+    background-color: #ffffff;
+    padding: 20px 30px;
+    
+    
+}
+.jumbotron {
+    padding-top: 0px;
+    padding-bottom: 5px;
+    background-size: cover;
+    height: 560px;
+}
+
+div.container{
+padding-top: 14.7%;
+background: url('/assets/images/busgo.jpg');
+position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+                
+}
+
+
